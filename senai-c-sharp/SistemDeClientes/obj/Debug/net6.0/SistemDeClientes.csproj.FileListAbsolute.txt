@@ -1,0 +1,14 @@
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\bin\Debug\net6.0\SistemDeClientes.exe
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\bin\Debug\net6.0\SistemDeClientes.deps.json
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\bin\Debug\net6.0\SistemDeClientes.runtimeconfig.json
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\bin\Debug\net6.0\SistemDeClientes.dll
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\bin\Debug\net6.0\SistemDeClientes.pdb
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.AssemblyInfoInputs.cache
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.AssemblyInfo.cs
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.dll
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\refint\SistemDeClientes.dll
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.pdb
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\SistemDeClientes.genruntimeconfig.cache
+C:\Users\GabrielCastagna\Documents\_git\senai-versoes-colaboracoes\senai-c-sharp\SistemDeClientes\obj\Debug\net6.0\ref\SistemDeClientes.dll
